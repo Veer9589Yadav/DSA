@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Veer9589Yadav/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Veer9589Yadav/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/Veer9589Yadav/DSA/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Veer9589Yadav/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Veer9589Yadav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Veer9589Yadav/DSA/tree/master/1051-height-checker) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Veer9589Yadav/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Veer9589Yadav/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
