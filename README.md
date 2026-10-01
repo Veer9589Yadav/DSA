@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/Veer9589Yadav/DSA/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Veer9589Yadav/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Veer9589Yadav/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Veer9589Yadav/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/Veer9589Yadav/DSA/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Veer9589Yadav/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Veer9589Yadav/DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Veer9589Yadav/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
