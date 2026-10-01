@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Veer9589Yadav/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Veer9589Yadav/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Veer9589Yadav/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Veer9589Yadav/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Veer9589Yadav/DSA/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
