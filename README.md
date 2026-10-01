@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Veer9589Yadav/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Veer9589Yadav/DSA/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Veer9589Yadav/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Veer9589Yadav/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Veer9589Yadav/DSA/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Veer9589Yadav/DSA/tree/master/1552-magnetic-force-between-two-balls) |
