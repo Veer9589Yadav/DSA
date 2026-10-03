@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Veer9589Yadav/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Veer9589Yadav/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Veer9589Yadav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/Veer9589Yadav/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Veer9589Yadav/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Veer9589Yadav/DSA/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Veer9589Yadav/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Veer9589Yadav/DSA/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Veer9589Yadav/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
