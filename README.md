@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Veer9589Yadav/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/Veer9589Yadav/DSA/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Veer9589Yadav/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/Veer9589Yadav/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Veer9589Yadav/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Veer9589Yadav/DSA/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Veer9589Yadav/DSA/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
