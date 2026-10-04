@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Veer9589Yadav/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Veer9589Yadav/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Veer9589Yadav/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Veer9589Yadav/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Veer9589Yadav/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Veer9589Yadav/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Veer9589Yadav/DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Veer9589Yadav/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Veer9589Yadav/DSA/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
