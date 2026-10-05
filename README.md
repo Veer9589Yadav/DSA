@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Veer9589Yadav/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Veer9589Yadav/DSA/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Veer9589Yadav/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Veer9589Yadav/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
@@ -110,9 +111,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Veer9589Yadav/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Veer9589Yadav/DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Veer9589Yadav/DSA/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Veer9589Yadav/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Veer9589Yadav/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
