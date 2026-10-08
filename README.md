@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Veer9589Yadav/DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Veer9589Yadav/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Veer9589Yadav/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/Veer9589Yadav/DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Veer9589Yadav/DSA/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Veer9589Yadav/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Veer9589Yadav/DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Veer9589Yadav/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Veer9589Yadav/DSA/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Veer9589Yadav/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Veer9589Yadav/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
